@@ -1,0 +1,139 @@
+employee,duty,shift,week,bid
+10 Ann Michele van der Sar,Data Entry,Late,Week 1,1.0
+10 Ann Michele van der Sar,Package Inspection,Early,Week 3,1.0
+10 Ann Michele van der Sar,Problem Resolution,Night,Week 2,1.0
+11 Ava Patel,Customer Service,Night,Week 3,1.0
+11 Ava Patel,Handling Oversized Mail,Early,Week 2,1.0
+11 Ava Patel,Inventory Management,Late,Week 1,0.0
+12 Kimble Rand,Handling Specialised Items,Early,Week 1,1.0
+12 Kimble Rand,Scanning and Bar Coding,Late,Week 2,0.0
+12 Kimble Rand,Scanning and Bar Coding,Night,Week 3,0.0
+13 Aiden Martin,Cleaning and maintenance,Night,Week 3,1.0
+13 Aiden Martin,Loading and Unloading,Early,Week 1,1.0
+13 Aiden Martin,Quality Control Checks,Late,Week 2,1.0
+14 Alexander Muller,Data Entry,Late,Week 2,1.0
+14 Alexander Muller,Quality Control Checks,Early,Week 3,1.0
+14 Alexander Muller,Quality Control Checks,Night,Week 1,1.0
+15 Ethan Smith,Coordination with Transportation,Late,Week 1,1.0
+15 Ethan Smith,Loading and Unloading,Night,Week 2,1.0
+15 Ethan Smith,Problem Resolution,Early,Week 3,1.0
+16 Emily Smith,Coordination with Transportation,Early,Week 2,1.0
+16 Emily Smith,Labeling,Night,Week 3,1.0
+16 Emily Smith,Quality Control Checks,Late,Week 1,1.0
+17 Muhammad Ali,Coordination with Transportation,Late,Week 3,1.0
+17 Muhammad Ali,Mail Sorting,Early,Week 1,1.0
+17 Muhammad Ali,Safety Compliance,Night,Week 2,1.0
+18 Sophie Johnson,Bagging and Bundling,Night,Week 2,1.0
+18 Sophie Johnson,Customer Service,Late,Week 1,1.0
+18 Sophie Johnson,Scanning and Bar Coding,Early,Week 3,1.0
+19 Rajesh Patel,Cleaning and maintenance,Night,Week 2,1.0
+19 Rajesh Patel,Customer Service,Early,Week 1,1.0
+19 Rajesh Patel,Handling Specialised Items,Late,Week 3,1.0
+1 Samuel Brown,Customer Service,Late,Week 3,1.0
+1 Samuel Brown,Handling Oversized Mail,Night,Week 1,1.0
+1 Samuel Brown,Problem Resolution,Early,Week 2,1.0
+20 Olivia Brown,Cleaning and maintenance,Late,Week 1,1.0
+20 Olivia Brown,Inventory Management,Night,Week 3,1.0
+20 Olivia Brown,Safety Compliance,Early,Week 2,1.0
+21 Aysha Ali,Cleaning and maintenance,Early,Week 2,1.0
+21 Aysha Ali,Data Entry,Night,Week 1,1.0
+21 Aysha Ali,Mail Sorting,Late,Week 3,1.0
+22 William Turner,Housekeeping,Late,Week 3,1.0
+22 William Turner,Housekeeping,Night,Week 1,0.0
+22 William Turner,Mail Sorting,Early,Week 2,1.0
+23 Isabella Clark,Inventory Management,Early,Week 1,1.0
+23 Isabella Clark,Inventory Management,Late,Week 2,0.0
+23 Isabella Clark,Safety Compliance,Night,Week 3,1.0
+24 Liam Wilson,Data Entry,Early,Week 1,1.0
+24 Liam Wilson,Labeling,Night,Week 2,1.0
+24 Liam Wilson,Record Keeping,Late,Week 3,1.0
+25 Fatima Hussain,Customer Service,Late,Week 2,1.0
+25 Fatima Hussain,Data Entry,Night,Week 3,1.0
+25 Fatima Hussain,Quality Control Checks,Early,Week 1,1.0
+26 James Robinson,Bagging and Bundling,Night,Week 1,1.0
+26 James Robinson,Housekeeping,Late,Week 2,0.0
+26 James Robinson,Machine Operation,Early,Week 3,1.0
+27 Sofia Garcia,Bagging and Bundling,Late,Week 1,1.0
+27 Sofia Garcia,Housekeeping,Early,Week 2,1.0
+27 Sofia Garcia,Machine Operation,Night,Week 3,1.0
+28 Thomas Williams,Bagging and Bundling,Late,Week 3,1.0
+28 Thomas Williams,Inventory Management,Early,Week 2,1.0
+28 Thomas Williams,Labeling,Night,Week 1,1.0
+29 Priya Sharma,Cleaning and maintenance,Early,Week 1,1.0
+29 Priya Sharma,Data Entry,Late,Week 3,1.0
+29 Priya Sharma,Inventory Management,Night,Week 2,1.0
+2 Noah Chen,Handling Specialised Items,Late,Week 1,1.0
+2 Noah Chen,Labeling,Early,Week 3,1.0
+2 Noah Chen,Quality Control Checks,Night,Week 2,1.0
+30 David Anderson,Cleaning and maintenance,Late,Week 2,1.0
+30 David Anderson,Coordination with Transportation,Night,Week 1,0.0
+30 David Anderson,Handling Specialised Items,Early,Week 3,1.0
+31 Amir Khan,Handling Oversized Mail,Early,Week 3,1.0
+31 Amir Khan,Package Inspection,Late,Week 1,1.0
+31 Amir Khan,Scanning and Bar Coding,Night,Week 2,1.0
+32 Charlotte White,Customer Service,Early,Week 2,1.0
+32 Charlotte White,Loading and Unloading,Late,Week 3,1.0
+32 Charlotte White,Machine Operation,Night,Week 1,1.0
+33 Abdullah Mohammed,Inventory Management,Early,Week 3,1.0
+33 Abdullah Mohammed,Mail Sorting,Night,Week 2,1.0
+33 Abdullah Mohammed,Record Keeping,Late,Week 1,1.0
+34 Oliver Jones,Loading and Unloading,Late,Week 1,1.0
+34 Oliver Jones,Mail Sorting,Early,Week 3,0.0
+34 Oliver Jones,Record Keeping,Night,Week 2,1.0
+35 Aaliyah Singh,Handling Specialised Items,Early,Week 2,1.0
+35 Aaliyah Singh,Inventory Management,Late,Week 3,1.0
+35 Aaliyah Singh,Mail Sorting,Night,Week 1,1.0
+36 Alexander Smith,Bagging and Bundling,Late,Week 2,1.0
+36 Alexander Smith,Cleaning and maintenance,Early,Week 3,1.0
+36 Alexander Smith,Safety Compliance,Night,Week 1,1.0
+37 Zara Begum,Cleaning and maintenance,Late,Week 3,0.0
+37 Zara Begum,Coordination with Transportation,Early,Week 1,1.0
+37 Zara Begum,Customer Service,Night,Week 2,1.0
+38 George Baker,Bagging and Bundling,Early,Week 3,0.0
+38 George Baker,Handling Oversized Mail,Late,Week 2,1.0
+38 George Baker,Record Keeping,Night,Week 1,1.0
+39 Layla Martin,Data Entry,Early,Week 3,1.0
+39 Layla Martin,Handling Specialised Items,Night,Week 2,1.0
+39 Layla Martin,Housekeeping,Late,Week 1,0.0
+3 Olivia Dubois,Machine Operation,Early,Week 2,1.0
+3 Olivia Dubois,Mail Sorting,Night,Week 3,0.0
+3 Olivia Dubois,Scanning and Bar Coding,Late,Week 1,1.0
+40 Ethan Davies,Bagging and Bundling,Early,Week 2,1.0
+40 Ethan Davies,Mail Sorting,Late,Week 1,1.0
+40 Ethan Davies,Problem Resolution,Night,Week 3,1.0
+41 Lila Cooper,Loading and Unloading,Early,Week 2,0.0
+41 Lila Cooper,Loading and Unloading,Night,Week 1,1.0
+41 Lila Cooper,Package Inspection,Late,Week 3,1.0
+42 Jack Wright,Package Inspection,Early,Week 2,1.0
+42 Jack Wright,Package Inspection,Night,Week 1,1.0
+42 Jack Wright,Quality Control Checks,Late,Week 3,1.0
+43 Aisha Smith,Housekeeping,Early,Week 1,1.0
+43 Aisha Smith,Package Inspection,Late,Week 2,1.0
+43 Aisha Smith,Record Keeping,Night,Week 3,1.0
+44 Noah Hughes,Data Entry,Early,Week 2,1.0
+44 Noah Hughes,Problem Resolution,Late,Week 3,1.0
+44 Noah Hughes,Problem Resolution,Night,Week 1,0.0
+45 Ella Scott,Housekeeping,Early,Week 3,1.0
+45 Ella Scott,Machine Operation,Late,Week 2,1.0
+45 Ella Scott,Scanning and Bar Coding,Night,Week 1,1.0
+46 Mohammed Johnson,Bagging and Bundling,Night,Week 3,1.0
+46 Mohammed Johnson,Handling Specialised Items,Late,Week 2,1.0
+46 Mohammed Johnson,Machine Operation,Early,Week 1,1.0
+4 Belissica Gellor,Coordination with Transportation,Late,Week 2,1.0
+4 Belissica Gellor,Inventory Management,Night,Week 1,0.0
+4 Belissica Gellor,Safety Compliance,Early,Week 3,1.0
+5 Max Ivanov,Cleaning and maintenance,Night,Week 1,1.0
+5 Max Ivanov,Machine Operation,Late,Week 3,1.0
+5 Max Ivanov,Quality Control Checks,Early,Week 2,1.0
+6 Zoe Jones,Customer Service,Early,Week 3,1.0
+6 Zoe Jones,Customer Service,Night,Week 1,1.0
+6 Zoe Jones,Labeling,Late,Week 2,0.0
+7 Emma Nguyen,Bagging and Bundling,Early,Week 1,1.0
+7 Emma Nguyen,Handling Specialised Items,Night,Week 3,1.0
+7 Emma Nguyen,Record Keeping,Late,Week 2,1.0
+8 Mia Rossi,Mail Sorting,Late,Week 2,1.0
+8 Mia Rossi,Quality Control Checks,Night,Week 3,1.0
+8 Mia Rossi,Safety Compliance,Early,Week 1,1.0
+9 Carlos Garcia,Coordination with Transportation,Night,Week 2,1.0
+9 Carlos Garcia,Labeling,Late,Week 1,0.0
+9 Carlos Garcia,Loading and Unloading,Early,Week 3,1.0

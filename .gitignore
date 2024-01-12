@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Project ideas and notes for future development
+ideas.txt
+
+# Old versions of modules
+OLD*
+
+# Log files
+*.Log
+
+# Virtual environment
+.conda/
+
+# IDE
+.vscode/
+
+# Visualisations
+*.html
