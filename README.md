@@ -5,7 +5,7 @@ Simon Griffiths 11-Dec-2023
 
 ## Description
 
-The DutySchedule project is an implementation of a scheduling solution to solve the allocation of duties to employees in Royal Mail's sorting offices.  The projects reads in bids for duties in shifts and with an objective function of 'maximising satisfaction', where satisfaction is measured by an allocated bid, allocates duties to employees within shifts over a three week rotation period.  To do this an optimisation problem is set up using linear programming and solved using the the PuLP library.  Several constraints are also respected: an employee can only be allocated a single duty and shift in any single week of the rotation; each employee must be allocated a duty in each shift over the rotation; and within a shift a duty can only be allocated to one employee.  The bokeh library is used to present two visualisations of the solution.  One which shows the allocations of employees to duties and shifts within the rotation and the second which shows a view of how employees have has their bid preferences satisfied.
+The DutySchedule project is an implementation of a scheduling solution to solve the allocation of duties to employees in Royal Mail's sorting offices.  The projects reads in bids for duties in shifts and with an objective function of 'maximising satisfaction', where satisfaction is measured by an allocated bid, allocates duties to employees within shifts over a three week rotation period.  To do this an optimisation problem is set up using linear programming and solved using the PuLP library.  Several constraints are also respected: an employee can only be allocated a single duty and shift in any single week of the rotation; each employee must be allocated a duty in each shift over the rotation; and within a shift a duty can only be allocated to one employee.  The bokeh library is used to present two visualisations of the solution.  One which shows the allocations of employees to duties and shifts within the rotation and the second which shows a view of how employees have has their bid preferences satisfied.
 
 ## Requirements
 
@@ -22,10 +22,10 @@ The DutySchedule project is an implementation of a scheduling solution to solve 
 
 ## Installation
 
- 1. Download and install mySQL Community Server 8.2.x https://www.mysql.com/downloads/
- 2. Download and install mySQL Workbench
- 3. If necessary start the mySQL service. In windows use services.msc and start the mySQL82 service
- 4. Open the mySQL WOrkbench and create a DB Admin account and password for mySQL. Open the project .env file and save the DB Account and password there. e.g.
+ 1. Download and install MySQL Community Server 8.2.x https://www.mysql.com/downloads/
+ 2. Download and install MySQL Workbench
+ 3. If necessary start the MySQL service. In windows use services.msc and start the mySQL82 service
+ 4. Open the MySQL Workbench and create a DB Admin account and password for mySQL. Open the project .env file and save the DB Account and password there. e.g.
  SQL_USER="The Admin account"
  SQL_KEY="The Admin password"
  5. Ensure all python dependencies in requirements.txt are installed in your virtual environment

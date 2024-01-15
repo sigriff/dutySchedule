@@ -1,9 +1,9 @@
 """
-This module handles the visualisations for the duty shedule application.  It requires that
+This module handles the visualisations for the duty schedule application.  It requires that
 the scheduling application has been run and that allocations have been created.
 
-Two visualisations are handled, a 'Bid Preference Analysis' of which employees were allocated
-their bid preferences and and and 'Employee Allocations' analysis which shows visually which
+Two visualisations are handled, a 'Bid Preference Analysis' shows which employees were allocated
+their bid preferences and an 'Employee Allocations' analysis which shows visually which
 employees have been allocated to which duties and shifts over the rotation period.  It also
 shows whether or not the employee made a bid for the allocation.
 
